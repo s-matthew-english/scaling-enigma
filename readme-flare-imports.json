@@ -1,0 +1,11 @@
+[
+{"name":"Firas","btc_address":"111","size":0,"imports":[]},
+{"name":"Matthew","btc_address":"112","size":0,"imports":["123"]},
+{"name":"Yulia","btc_address":"333","size":0,"imports":["111", "333"]},
+{"name":"Hector","btc_address":"123","size":0,"imports":["111","333","112"]},
+{"name":"Ernane","btc_address":"666","size":0,"imports":["111"]},
+{"name":"Maria-Esther","btc_address":"007","size":0,"imports":["666", "333"]},
+{"name":"Soeren","btc_address":"699","size":0,"imports":["123"]},
+{"name":"Allyson","btc_address":"659","size":0,"imports":["699","333","112"]},
+{"name":"Sergio","btc_address":"697","size":0,"imports":["666", "111"]}
+]
